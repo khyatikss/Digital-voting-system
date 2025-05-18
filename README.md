@@ -1,6 +1,7 @@
 # Digital Voting System
 
 A secure and transparent platform for democratic elections built with Flask,Javascript,SQLAlchemy, PostgreSQL, HTML/CSS, Bootstrap, JWT, UUID.
+
 -Engineered a secure online voting platform with email-based voter verification, session management via JWT, and
 UUID-based encrypted vote tracking.
 Implemented document upload system for identity verification with secure filename handling, file-type validation, and
