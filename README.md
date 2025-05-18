@@ -1,6 +1,12 @@
 # Digital Voting System
 
-A secure and transparent platform for democratic elections built with Flask,Javascript,SQLAlchemy, PostgreSQL, HTML/CSS, Bootstrap, JWT, UUID
+A secure and transparent platform for democratic elections built with Flask,Javascript,SQLAlchemy, PostgreSQL, HTML/CSS, Bootstrap, JWT, UUID.
+◦ Engineered a secure online voting platform with email-based voter verification, session management via JWT, and
+UUID-based encrypted vote tracking.
+◦ Implemented document upload system for identity verification with secure filename handling, file-type validation, and
+admin approval via custom dashboard.
+◦ Designed a responsive frontend for voters and admins with live election stats, countdown timers, and real-time vote
+tally using AJAX.
 
 ![Picture 1](https://github.com/khyatikss/Digital-voting-system/blob/main/Picture1.png?raw=true)
 
