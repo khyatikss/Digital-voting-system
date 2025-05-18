@@ -1,6 +1,8 @@
-# Online Voting System
+# Digital Voting System
 
-A secure and transparent platform for democratic elections built with Flask.
+A secure and transparent platform for democratic elections built with Flask,Javascript,SQLAlchemy, PostgreSQL, HTML/CSS, Bootstrap, JWT, UUID
+![Picture 1](https://github.com/khyatikss/Digital-voting-system/blob/main/Picture1.png?raw=true)
+
 
 ## Features
 
@@ -47,6 +49,19 @@ flask run
 ## Default Admin Account
 - Username: admin
 - Password: admin123
+  
+## RESULTS
+  
+![Image 1](https://github.com/khyatikss/Digital-voting-system/blob/main/Picture2.png?raw=true)
+
+![Image 2](https://github.com/khyatikss/Digital-voting-system/blob/main/Picture5.png?raw=true)
+
+![Image 3](https://github.com/khyatikss/Digital-voting-system/blob/main/Picture4.png?raw=true)
+
+![Image 4](https://github.com/khyatikss/Digital-voting-system/blob/main/Picture6.png?raw=true)
+
+![Image 5](https://github.com/khyatikss/Digital-voting-system/blob/main/Picture3.png?raw=true)
+
 
 ## Usage
 1. Register as a voter or login with the admin account
