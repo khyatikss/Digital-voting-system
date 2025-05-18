@@ -4,7 +4,7 @@ A secure and transparent platform for democratic elections built with Flask,Java
 
 -Engineered a secure online voting platform with email-based voter verification, session management via JWT, and
 UUID-based encrypted vote tracking.
---Implemented document upload system for identity verification with secure filename handling, file-type validation, and
+-Implemented document upload system for identity verification with secure filename handling, file-type validation, and
 admin approval via custom dashboard.
 -Designed a responsive frontend for voters and admins with live election stats, countdown timers, and real-time vote
 tally using AJAX.
